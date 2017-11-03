@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#coding uft-8
+#coding: utf-8
 
 #Script zum schnellen sharen einer Datei via Own- oder NextCloud. 
 #benötigt eine config-datei in $HOME/.config/nextshare/ 
